@@ -10,3 +10,7 @@ IMDb is an online database for movies, tv shows and more. The dataset I got is 5
 Please see below for the data sets I found from Kaggle
 
 https://www.kaggle.com/datasets/carolzhangdc/imdb-5000
+
+Tableau presentation
+
+https://public.tableau.com/app/profile/gerald.yuen/viz/A6_7/Story1?publish=yes
