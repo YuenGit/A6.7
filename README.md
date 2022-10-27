@@ -4,7 +4,7 @@ IMDb is an online database for movies, tv shows and more. The dataset I got is 5
 
  
  ## Objective
- Using skills from this course to analysis the data to see if the IMDb score is correlated with other variables 
+ Using skills from this course to analysis the data to see if the IMDb score is correlated with other variables. I will be using Excel, Python and Tableau to work on the analysis.
 
  ## Data
 Please see below for the data sets I found from Kaggle
