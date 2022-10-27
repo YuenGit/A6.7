@@ -4,7 +4,7 @@ IMDb is an online database for movies, tv shows and more. The dataset I got is 5
 
  
  ## Objective
-I will be using Excel, Python and Tableau to analysis the data to see if the IMDb score, movie year, cast total facebook likes, gross income are related. In this project, I will use linear regression and clustering to look for correlation of the data.
+I will be using Excel, Python and Tableau to analysis the data to see if the IMDb score, movie year, cast total facebook likes, gross income are related. In this project, I will use linear regression and clustering to look for correlation of the data. This project can help people to see if other variables can be a factor for a good movie such as the IMDb score.
 
  ## Data
 Please see below for the data sets I found from Kaggle
